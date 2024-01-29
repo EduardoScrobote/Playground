@@ -1,6 +1,6 @@
 export const Projects = [
   {
     name: "Precisão Adaptativa",
-    path: "precision",
+    path: "https://adaptative-precision.vercel.app/",
   },
 ];
