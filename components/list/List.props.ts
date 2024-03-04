@@ -7,4 +7,8 @@ export const Projects = [
     name: "Modelo Login",
     path: "https://auth-template-seven.vercel.app/",
   },
+  {
+    name: "Animated Menu",
+    path: "https://animated-menu-xi.vercel.app/",
+  },
 ];
